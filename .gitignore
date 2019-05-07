@@ -2,7 +2,6 @@
 .directory
 
 # Godot 3 import folder
-*.import
 .import
 
 # Godot 3 addons
